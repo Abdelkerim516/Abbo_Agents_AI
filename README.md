@@ -1,4 +1,4 @@
-# 🚀 Abbo AgentsAI — Intelligent Workflow Assistant for Enterprise Operations
+#  Abbo AgentsAI — Intelligent Workflow Assistant for Enterprise Operations
 
 > AI Agent for Email Automation • Task Management • Customer Support  
 > **Track:** Enterprise Agents  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 1. Overview
+##  1. Overview
 
 Modern businesses waste enormous time manually handling emails, customer support messages, and internal task creation. Employees must sort, summarize, prioritize, and respond to dozens of messages every day.
 
@@ -15,18 +15,18 @@ Modern businesses waste enormous time manually handling emails, customer support
 
 L’agent peut :
 
-- 📥 lire et ingérer des messages (emails, tickets, demandes)
-- 🧠 classifier le type de message (email simple, tâche, support)
-- ✂️ résumer les points clés
-- ✅ générer des tâches actionnables (JSON)
-- 💬 produire des réponses automatiques de support
-- 🗄️ enregistrer les résultats dans une mémoire à long terme
+-  lire et ingérer des messages (emails, tickets, demandes)
+-  classifier le type de message (email simple, tâche, support)
+-  résumer les points clés
+-  générer des tâches actionnables (JSON)
+-  produire des réponses automatiques de support
+-  enregistrer les résultats dans une mémoire à long terme
 
 Résultat : moins de travail manuel, des réponses plus rapides et une meilleure organisation des flux internes.
 
 ---
 
-## 🎯 2. Problem Statement
+##  2. Problem Statement
 
 Les entreprises font face à plusieurs problèmes récurrents :
 
@@ -40,21 +40,21 @@ Les employés perdent plusieurs heures par semaine sur ces actions répétitives
 
 ---
 
-## 💡 3. Solution: Abbo AgentsAI
+##  3. Solution: Abbo AgentsAI
 
 **Abbo AgentsAI** automatise les workflows de communication d’entreprise grâce à plusieurs agents coordonnés :
 
-- 🟦 **Email Intake Agent** → capture le message brut
-- 🟥 **Classifier Agent** → détecte le type de message : `email | task | support`
-- 🟧 **Analyzer Agent** → résume et extrait les informations importantes
-- 🟨 **Task Agent** → génère des tâches structurées au format JSON lorsque c’est une demande de travail
-- 🟩 **Support Agent** → rédige une réponse de support claire et professionnelle
-- 🟪 **Action Agent** → produit un résultat final formaté (rapport ou réponse)
-- 🟦 **Logger Agent** → stocke les résultats utiles dans une mémoire à long terme
+-  **Email Intake Agent** → capture le message brut
+-  **Classifier Agent** → détecte le type de message : `email | task | support`
+-  **Analyzer Agent** → résume et extrait les informations importantes
+-  **Task Agent** → génère des tâches structurées au format JSON lorsque c’est une demande de travail
+-  **Support Agent** → rédige une réponse de support claire et professionnelle
+-  **Action Agent** → produit un résultat final formaté (rapport ou réponse)
+-  **Logger Agent** → stocke les résultats utiles dans une mémoire à long terme
 
 ---
 
-## 🏆 4. Key Features (Kaggle Requirements)
+##  4. Key Features (Kaggle Requirements)
 
 Ce projet démontre plusieurs concepts clés demandés dans le Capstone :
 
@@ -90,13 +90,13 @@ Ce projet démontre plusieurs concepts clés demandés dans le Capstone :
 
 ---
 
-## 🏗️ 5. Architecture Diagram
+##  5. Architecture Diagram
 
 ![Nom de l'image](./src/img/Architecture.png)
 
 
 
-⚙️ 7. Installation & Setup
+## 6. Installation & Setup
 1️⃣ Cloner le dépôt
 git clone https://github.com/yourusername/abbo-agents-ai.git
 cd abbo-agents-ai
