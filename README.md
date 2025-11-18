@@ -5,6 +5,7 @@
 > **Developer:** Abdelkerim Ali Abbo  
 > **Language:** Python (Gemini API)
 
+![Nom de l'image](./src/img/AbboAI.jpg)
 ---
 
 ##  1. Overview
