@@ -97,14 +97,14 @@ Ce projet démontre plusieurs concepts clés demandés dans le Capstone :
 
 
 ## 6. Installation & Setup
-1️⃣ Cloner le dépôt
-git clone https://github.com/yourusername/abbo-agents-ai.git
-cd abbo-agents-ai
+1. Cloner le dépôt
+git clone `https://github.com/Abdelkerim516/Abbo_Agents_AI.git`
+cd `Abbo_Agents_AI`
 
-2️⃣ Créer et activer un environnement virtuel (recommandé)
+2. Créer et activer un environnement virtuel (recommandé)
 python3 -m venv venv
 source venv/bin/activate  # sur Linux / macOS
 # venv\Scripts\activate   # sur Windows (PowerShell ou CMD)
 
-3️⃣ Installer les dépendances
+3. Installer les dépendances
 pip install -r requirements.txt
