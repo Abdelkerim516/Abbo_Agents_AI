@@ -92,7 +92,7 @@ Ce projet démontre plusieurs concepts clés demandés dans le Capstone :
 
 ## 🏗️ 5. Architecture Diagram
 
-![Nom de l'image](img/Architecture.png)
+![Nom de l'image](./src/img/Architecture.png)
 
 
 
